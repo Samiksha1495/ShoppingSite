@@ -1,0 +1,26 @@
+.button-box{
+    border: 2px solid #00CED1;
+    padding: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    width:6rem;
+    color:#00CED1;
+    background:white;
+    height: 2.7rem;
+}
+
+
+
+.login-button{
+    background: #00CED1;
+    padding: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    border: none;
+    font-family: arial, sans-serif;
+    cursor: pointer;
+    width:6rem;
+    height: 2.7rem;
+}
