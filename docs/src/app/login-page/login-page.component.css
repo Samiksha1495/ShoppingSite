@@ -1,0 +1,49 @@
+
+
+.button-box b{
+    color:#19B5FE;
+    font-family: Arial,sans-serif;
+}
+
+.input-box{
+    
+    border: 2px solid #19B5FE;
+    padding: 7px;
+    border-radius: 0;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background: whitesmoke;
+}
+
+.submit-button{
+    width: 100%;
+    height: auto;
+    background: #19B5FE;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    border: none;
+    font-size: 19px;
+    font-family: arial, sans-serif;
+    cursor: pointer;
+}
+
+.mat-form-field{
+    width: 100%;
+}
+
+.mat-form-field-appearance-outline .mat-form-field-outline-thick{
+    color:#AFEEEE;
+}
+
+.forget-password{
+    line-height: 1;
+    font-weight: 500;
+    color: #19B5FE;
+    font-size: 18px;
+}
+
+.cdk-overlay-container{
+    position: fixed;
+    z-index: 1100!important;
+}
